@@ -146,3 +146,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VideoPlayer(root)
     root.mainloop()
+#Made by Samkit Jain As Collage Project in 3rd Sem
